@@ -49,10 +49,6 @@ Haz un push a la rama: git push origin nueva-caracteristica
 Crea un pull request en GitHub.
 ¡Gracias por contribuir!
 
-Licencia
-Este proyecto está bajo la Licencia MIT.
 
-r
-Copy code
-
-Recuerda ajustar los enlaces, comandos y detalles específicos según tu pr
+ejecuta el proyecto segun el caso de prueba que desees, en la clase runner hay una variable que se llama tags, cada caso de prueba tiene su tag, si deseas ejecutar todos el tag seria suite
+presionas click derecho sobre el runner y da click en el run "Runner"
